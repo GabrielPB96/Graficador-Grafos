@@ -62,3 +62,5 @@
 
   new Graph(vertices, aristas);
 ```
+# Grafo Resultante
+![Grafo](./assets/grafo.png)
