@@ -10,7 +10,6 @@ public class Graph extends JFrame {
         setTitle("Graph");
         setBounds(0, 0, 500, 500);
         setLocationRelativeTo(null);
-        setDefaultCloseOperation(EXIT_ON_CLOSE);
         add(panel);
         setVisible(true);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
